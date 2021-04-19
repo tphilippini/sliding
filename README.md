@@ -1,8 +1,10 @@
 # JIGSAW Application
 
-React Jigsaw Game.
-Running on ReactJS with Hooks, Styled Components
-Source of pictures provided by Yuko Higuchi
+[In Progess...]
+
+- React Jigsaw Game.
+- Running on ReactJS with Hooks, Styled Components
+- Source of pictures provided by Yuko Higuchi
 
 ### [Demo](https://tphilippini.github.io/jigsaw/)
 
