@@ -1,12 +1,12 @@
-# JIGSAW Application
+# Sliding Puzzle Application
 
 [In Progess...]
 
-- React Jigsaw Game.
+- React Sliding Puzzle Game.
 - Running on ReactJS with Hooks, Styled Components
 - Source of pictures provided by Yuko Higuchi
 
-### [Demo](https://tphilippini.github.io/jigsaw/)
+### [Demo](https://tphilippini.github.io/sliding/)
 
 ## TODO
 
